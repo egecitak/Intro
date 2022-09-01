@@ -3,15 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intro", "Intro\Intro.csproj", "{79944DCC-7FB2-4012-8CEF-D6E45A591006}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intro", "Intro\Intro.csproj", "{79944DCC-7FB2-4012-8CEF-D6E45A591006}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{26CAEA46-6B81-4771-9118-3E8D395BCCCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{26CAEA46-6B81-4771-9118-3E8D395BCCCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{00CF3025-A498-4038-9E4D-03BDF957FFCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{00CF3025-A498-4038-9E4D-03BDF957FFCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{2453B35C-7A8E-4CF4-881E-A5867D27E5FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{2453B35C-7A8E-4CF4-881E-A5867D27E5FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathematics", "Mathematics\Mathematics.csproj", "{790338D5-A840-4276-A3DD-B98BEAEA6316}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mathematics", "Mathematics\Mathematics.csproj", "{790338D5-A840-4276-A3DD-B98BEAEA6316}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{FFFE50E6-0170-4457-A0E8-A17EFCDB2AC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{8546897E-7AE5-437B-A235-C4919AA6504D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{1C4ECF21-227F-41E9-BAAB-0B46FFFB88EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{790338D5-A840-4276-A3DD-B98BEAEA6316}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{790338D5-A840-4276-A3DD-B98BEAEA6316}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{790338D5-A840-4276-A3DD-B98BEAEA6316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFFE50E6-0170-4457-A0E8-A17EFCDB2AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFE50E6-0170-4457-A0E8-A17EFCDB2AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFE50E6-0170-4457-A0E8-A17EFCDB2AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFE50E6-0170-4457-A0E8-A17EFCDB2AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8546897E-7AE5-437B-A235-C4919AA6504D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8546897E-7AE5-437B-A235-C4919AA6504D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8546897E-7AE5-437B-A235-C4919AA6504D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8546897E-7AE5-437B-A235-C4919AA6504D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C4ECF21-227F-41E9-BAAB-0B46FFFB88EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4ECF21-227F-41E9-BAAB-0B46FFFB88EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4ECF21-227F-41E9-BAAB-0B46FFFB88EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4ECF21-227F-41E9-BAAB-0B46FFFB88EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
